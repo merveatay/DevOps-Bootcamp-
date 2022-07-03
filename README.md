@@ -14,7 +14,7 @@ First part backups home directories of all existing users in the system and arch
 
 Second part checks the disk usage of partitions and sends a warning email if it is exceeding 90%.
 
-**_Skills;_**
+**Skills**
 
-[![Bash][#bash]][@bash]
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
