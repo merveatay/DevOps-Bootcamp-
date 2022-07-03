@@ -1,0 +1,1 @@
+05 23 * * * tar -zcf /backup_script/backup.sh && echo "yedekleme gerçekleşti."
